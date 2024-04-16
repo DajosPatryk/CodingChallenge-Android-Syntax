@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_50">#EBEBFF</color>
+    <color name="primary_100">#D1D0FF</color>
+    <color name="primary_200">#ACABE5</color>
+    <color name="primary_300">#908ECA</color>
+    <color name="primary_400">#7673B1</color>
+    <color name="primary_500">#5D5998</color>
+    <color name="primary_600">#453E7F</color>
+    <color name="primary_700">#2E2364</color>
+    <color name="primary_800">#221754</color>
+    <color name="primary_900">#150640</color>
+    <color name="primary_950">#0A0029</color>
+    <color name="secondary_50">#FFE5E8</color>
+    <color name="secondary_100">#FFB2B8</color>
+    <color name="secondary_200">#FF8F97</color>
+    <color name="secondary_300">#FF6774</color>
+    <color name="secondary_400">#E44458</color>
+    <color name="secondary_500">#C62A43</color>
+    <color name="secondary_600">#A1172E</color>
+    <color name="secondary_700">#85001A</color>
+    <color name="secondary_800">#66000B</color>
+    <color name="secondary_900">#420001</color>
+    <color name="secondary_950">#1F0000</color>
+    <color name="util_50">#F1F0EE</color>
+    <color name="util_100">#FDFBF8</color>
+    <color name="util_200">#F1E6E0</color>
+    <color name="util_300">#969592</color>
+    <color name="util_400">#7C7B79</color>
+    <color name="util_500">#63615F</color>
+    <color name="util_600">#494847</color>
+    <color name="util_700">#343332</color>
+    <color name="util_800">#252422</color>
+    <color name="util_900">#161514</color>
+    <color name="util_950">#0B0A0A</color>
+</resources>
